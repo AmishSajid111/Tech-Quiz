@@ -1,0 +1,23 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+body{
+ 
+    background-size: cover ;
+    background-repeat: no-repeat;
+
+}
+h1{
+    text-align: center;
+    margin: 82px;
+    color: #0087ff;
+    font-size: 35px;
+}
+.quiz
+{
+    background-color: #9793932e;
+    height: 100vh;
+}
+   
